@@ -1,0 +1,2 @@
+The Contract is Deployed on "Rinkeby" Test network at : "0x63F560Da2809008Be9c7dbDbfCca84858afeb5A9"
+And i have hosted it on Firebase on this link: "https://consensys-project.firebaseapp.com/"
